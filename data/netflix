@@ -1,18 +1,9 @@
 fast.com
+flxvpn.net
 netflix.ca
 netflix.com
-netflix.net
-netflixinvestor.com
-netflixtechblog.com
-nflxext.com
-nflximg.com
-nflximg.net
-nflxsearch.net
-nflxso.net
-nflxvideo.net
-
-# DNS test
-netflixdnstest0.com
+netflix.com.au
+netflixdnstest10.com
 netflixdnstest1.com
 netflixdnstest2.com
 netflixdnstest3.com
@@ -22,13 +13,12 @@ netflixdnstest6.com
 netflixdnstest7.com
 netflixdnstest8.com
 netflixdnstest9.com
-netflixdnstest10.com
-
-# regular expression
-regexp:(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
-regexp:(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
-regexp:(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
-regexp:(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$
-
-# Full
-full:netflix.com.edgesuite.net
+netflixinvestor.com
+netflix.net
+netflixstudios.com
+netflixtechblog.com
+nflxext.com
+nflximg.com
+nflximg.net
+nflxso.net
+nflxvideo.net
